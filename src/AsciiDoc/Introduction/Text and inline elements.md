@@ -1,0 +1,1 @@
+Can be sorrounded by markers, delimiters and metadata lines. Subject to [[Substitutions]], but Verbatim is subject to a [[Minimal set of substitutions]].

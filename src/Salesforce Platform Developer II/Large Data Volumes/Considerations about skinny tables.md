@@ -1,0 +1,3 @@
+- **Skinny tables are skinny** - They contain only the minimum set of fields required to fulfill specific use cases. If you need to add a field to report or SOQL query, you must contact to Salesforce Customer Support.
+- **Skinny tables are copied only for Full sandbox orgs** - To have production skinny tables activated in other types of sandboxes, contact to Salesforce Customer Support.
+- **Skinny tables can´t mutate like base objects as are custom tables in the underlying database** - They can´t be mutated as you can make in a base object, like when updating field types. The skinny table becomes invalid in this cases. You must contact to Salesforce Customer Support to create a new skinny table.

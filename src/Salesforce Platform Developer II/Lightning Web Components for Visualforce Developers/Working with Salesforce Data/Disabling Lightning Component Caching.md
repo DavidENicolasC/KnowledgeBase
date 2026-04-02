@@ -1,0 +1,3 @@
+Lightning Experience uses secure data caching in the browser to improve page performance by avoiding additional round trips to the server. You can disable it during development to see the effect to any code changes without needing to empty the cache or wait for the cache to expire.
+
+Disabling this has a significant negative performance impact on Lightning Experience. Recommend always enable the setting in production orgs.

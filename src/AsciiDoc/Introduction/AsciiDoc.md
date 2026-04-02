@@ -1,0 +1,1 @@
+Is a plain writting text format with no boilerplate enclosure or prologue. An [[AsciiDoc Document]] may consist of only a single sentence.

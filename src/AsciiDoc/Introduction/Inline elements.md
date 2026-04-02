@@ -1,0 +1,1 @@
+Span of content within a block element or one of its attributes. Has a [[Context]], but cannot be accessed from the parsed document model.

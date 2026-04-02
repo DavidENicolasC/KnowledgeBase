@@ -1,0 +1,7 @@
+- Only support object and field permissions.
+- You can´t edit or delete [[Big Object's Index]] once deployed.
+- SOQL relationship queries are based on a lookup field from a big object to a standard or custom object in the select field list, not filters or subqueries.
+- Support custom Salesforce Lightning and Visualforce components rather than standard UI elements.
+- You can create up 100 big objects per org. Limits similar to custom objects, and depend on the org's license type.
+- Don´t support transactions that includes big, standard and custom objects.
+- You can use triggers, flows, processes and the Salesforce app.

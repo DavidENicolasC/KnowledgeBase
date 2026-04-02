@@ -1,0 +1,1 @@
+Discrete set of contiguous and non-empty lines.

@@ -1,0 +1,2 @@
+Visualforce: Use tags such as <apex:pageMessages> and <apex:pageMessage>. You must handle exceptions in the Apex Controller and add messages to the page with ApexPages.addMessages.
+Lightning Web Component: Handle exceptions in the Javascript file. You can decide whether to let exceptions propagate or to gain more control over what's shown to the user by throwing an AuraHandledException or a custom exception.

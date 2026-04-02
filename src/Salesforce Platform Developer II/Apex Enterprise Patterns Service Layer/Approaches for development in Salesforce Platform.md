@@ -1,0 +1,2 @@
+- Declarative
+- Traditional coding

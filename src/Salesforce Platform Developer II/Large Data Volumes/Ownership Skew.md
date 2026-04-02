@@ -1,0 +1,1 @@
+When a large number of records with the same object are owner by a single user. In some cases can´t be avoided. It's best to ensure the owner doesn´t have a role. This avoids issues related to role hierarchy and sharing rules.

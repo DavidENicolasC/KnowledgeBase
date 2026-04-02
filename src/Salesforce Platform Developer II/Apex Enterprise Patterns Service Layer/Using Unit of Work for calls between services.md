@@ -1,0 +1,1 @@
+Pass the outer Unit of Work instance as a parameter via method overloading, case unit of work is representing transactional scope of the service method, aim for only one Unit of Work instance per method call.

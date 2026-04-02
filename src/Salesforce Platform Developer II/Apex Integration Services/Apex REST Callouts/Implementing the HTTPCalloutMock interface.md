@@ -1,0 +1,1 @@
+We can implement the HttpCalloutMock interface to test callouts. The mocked response is sent in the respond() method with a return statement.

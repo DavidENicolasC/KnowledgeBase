@@ -1,0 +1,1 @@
+Is a temporary storage for frequently accessed data from a database.

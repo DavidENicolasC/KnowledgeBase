@@ -1,0 +1,1 @@
+You can generate the WSDL file in Salesforce from the class detail page, accessed from the Apex Classes in Setup. This file will be used to call Apex methods when you are [[Exposing a class as a SOAP web service]].

@@ -1,0 +1,1 @@
+Big Objects can store a billion or more records.

@@ -1,0 +1,5 @@
+- Component reuse across Salesforce
+- Easy extensibility of app functionality
+- Download custom components from AppExchange or create your own
+- Builders for create responsive designs optimized for mobile devices
+- Base components that work great across device form factors

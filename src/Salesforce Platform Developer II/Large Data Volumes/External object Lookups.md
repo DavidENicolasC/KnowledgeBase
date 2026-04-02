@@ -1,0 +1,5 @@
+External objects support standard lookup relationships, which use the 18-character Salesforce record IDs to associate related records with each other.
+
+Two special types of lookup relationships are available for external objects. This fields compare a specific field's values on the parent object to the relationship field's values on the child object. When values match, records are related to each other:
+External Lookups - Use when the parent is an external object. When the child is an external object, the value come from the specified External Column Name
+Indirect Lookups - Use when the external data doesn´t include Salesforce record IDs. relates a child external object to a parent standard or custom object. You specify the parent object field and the child object field to match against each other by selecting a custom unique external ID field on the parent object to match against the child´s indirect lookup relationship field. Values determined by the specified External Column Name.

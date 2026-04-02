@@ -1,0 +1,1 @@
+Salesforce recommends that you don´t share record IDs between test data and org data, thereby preventing test data from accessing pre-existing org data.

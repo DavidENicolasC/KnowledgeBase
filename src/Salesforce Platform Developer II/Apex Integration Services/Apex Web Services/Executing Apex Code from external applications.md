@@ -1,0 +1,1 @@
+You can call to Apex methods in Salesforce from external applications by [[Exposing a class as a REST web service]] or [[Exposing a class as a SOAP web service]] operation.

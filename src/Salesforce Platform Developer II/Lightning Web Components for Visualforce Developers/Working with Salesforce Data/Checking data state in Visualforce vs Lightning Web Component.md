@@ -1,0 +1,2 @@
+Visualforce: Uses the view state to maintain state between server requests. It recreates the page and passes the state to different pages in wizards an guided workflows.
+Lightning Web Component: Server requests are stateless. You must pass all the information that the method needs, and the method must return all the information that the component needs every time you make and Apex call.

@@ -1,0 +1,1 @@
+Annotated with @IsTest. Are excluded from the organization code size limit and execute in test context. Can be called by test methods but no by non-test code. Must be declared as public or global.

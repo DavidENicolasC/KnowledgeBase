@@ -1,0 +1,6 @@
+- Method is stateless.
+- Methods must be @AuraEnabled
+- Methods can be marked as cacheable.
+- Methods must be imported and you must to call them.
+- You must to bind components to record pages in a metadata xml file, and access the record Id in the Javascript file.
+- Proper error handling involves throwing exceptions, instead of using page messages

@@ -1,0 +1,3 @@
+- **Evolution** - A layer might need to be extended.
+- **Impact management** - Modifying or dropping one or more layers should not unduly impact other layers, unless this is the intention.
+- **Roles and responsibility** - Each layer has it's own responsibility and must not drop below or over-extended that responsibility.

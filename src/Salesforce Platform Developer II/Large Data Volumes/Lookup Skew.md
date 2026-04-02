@@ -1,0 +1,1 @@
+When a very large number of records are asocciated with a single record in the lookup object. This is issues can be found by finding architectural issues.

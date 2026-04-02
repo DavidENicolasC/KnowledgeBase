@@ -1,0 +1,3 @@
+- Storing smaller pieces of data can reduce your cache usage size. But you might need complex logic to rebuild data and sObjects.
+- sObject array stored in one key uses less cache space than sObjects stored in individual keys.
+- Caching smaller items instead of a list of items worsens cache performance because overhead of the serialization and cache commit time.

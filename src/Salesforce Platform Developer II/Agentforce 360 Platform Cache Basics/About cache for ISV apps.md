@@ -1,0 +1,1 @@
+Cache space for apps under a namespace is protected from other code. Only Apex code running from the namespace can access and use the namespace's cache, and the space is not affected by the usage of the cache in the subscriber's org.

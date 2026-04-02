@@ -1,0 +1,3 @@
+**Soft Deletion**: Salesforce uses a Recycle Bin for data that users delete. Instead of removing the data, it´s flagged as deleted and visible through the Recycle Bin. This stills affects to database performance as have to be excluded from any queries. Data is physically deleted from database mannually, or when the Recycle Bin reaches 15 days or grows to a specific size.
+
+**Hard Deletion**: Allows records to bypass Recycle Bin and become available for deletion. Is disabled by default and must be enabled by an Administrator.

@@ -1,0 +1,9 @@
+| Field Name                     | Description                                                                                                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Label                          | Name used to refer to the object in user interface                                                                                                                  |
+| Plural Label                   | Plural Name                                                                                                                                                         |
+| Starts with a vowel sound      | Indicates whether "an" or "a" precedes the label                                                                                                                    |
+| Object Name                    | Unique API Name. Use alphanumeric and underscores. Must begin with a letter and have no space. Cannot end with and underscore nor have two consecutive underscores. |
+| Description                    | The description.                                                                                                                                                    |
+| Context-Sensitive Help Setting | URL that displays when a user clicks Help for this page from the object record's home, edit, detail pages, list views and related lists.                            |
+| Deployment status              | Object status.                                                                                                                                                      |

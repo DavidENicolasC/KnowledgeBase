@@ -1,0 +1,4 @@
+- text/csv
+- application/vnd.ms-excel
+- application/octet-stream
+- text/plain

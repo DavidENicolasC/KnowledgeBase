@@ -1,0 +1,25 @@
+# Obsidian workspace & cache (device-specific, changes constantly)
+.obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian plugins cache
+.obsidian/plugins/*/data.json
+
+# Trash
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Smart Connections (AI plugin cache, can be huge)
+.smart-connections/
+
+# Obsidian Git plugin internals
+.obsidian/plugins/obsidian-git/data.json
+
+# Salesforce DX Configuration
+.sfdx

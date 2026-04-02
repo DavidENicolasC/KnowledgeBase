@@ -1,0 +1,1 @@
+Apex test methods don´t support callouts, and tests that performs callouts fail. For testing, you must [[Setting REST mocks for tests]]. You can use it by either implementing an interface or using static resources. The Test.setMock() method informs the runtime that mock callouts are used in the test method.

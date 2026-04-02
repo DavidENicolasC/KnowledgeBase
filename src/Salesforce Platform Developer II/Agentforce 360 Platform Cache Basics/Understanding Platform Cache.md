@@ -1,0 +1,1 @@
+A memory layer that stores Salesforce session and org data for later access. Can be one of the [[Types of Platform Cache]]. Platform Cache can be found in Salesforce Classic only.

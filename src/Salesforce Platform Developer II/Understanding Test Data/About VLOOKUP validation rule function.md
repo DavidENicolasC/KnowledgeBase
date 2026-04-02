@@ -1,0 +1,2 @@
+in API version 27.0 and earlier, always lookup org data in addition to test data when fired by a running Apex test.
+From API version 28.0, no longer accesses to organization data from a running Apex test unless method is annotated with IsTest(SeeAllData=true).

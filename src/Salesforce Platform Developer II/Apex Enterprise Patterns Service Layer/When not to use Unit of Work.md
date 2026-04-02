@@ -1,0 +1,2 @@
+* **DML bulkification and optimization** - Code can update some or all records and related records, depending on logic flow. Creates and populates two lists to maintain only the records read that need to be updated.
+* **Error handling and transaction management** - As [[Design considerations for Service Layer]], it must commit all changes or none if error ocurrs, regardless if caller catches exceptions it throws.

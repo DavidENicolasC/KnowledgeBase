@@ -1,0 +1,1 @@
+It's also a [[Block]]. Series of [[Block]]s or sections preceded by an optional preamble that are stacked linewise, known as [[Element]]. Typically offset from one another by an empty line, not required. Can start with a [[Document Header]].

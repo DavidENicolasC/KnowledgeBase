@@ -1,0 +1,1 @@
+Text separated on either side by a newline character or the boundary of the document. AsciiDoc is a line-oriented language.

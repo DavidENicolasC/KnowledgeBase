@@ -1,0 +1,1 @@
+Has .adoc file extension. Most processors assume UTF-8 encoding. UTF-16 supported if file starts with a [[BOM]].

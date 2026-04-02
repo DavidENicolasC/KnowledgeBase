@@ -1,0 +1,4 @@
+Services can use Factory Method Pattern along with Apex interfaces to dynamically resolve implementation as opposed to coding it directly in the methods.
+However, require some plumbing and framework to create interfaces, ways to register classes, and other fun stuff in your code.
+
+Defining service layer design upfront also allows developers or teams of developers to work better together or in parallel. When need to call the services, can use dummy implementations to return static data, while those implementing services can work on the code without impacting their callers. Is often referred as Design by Contract.

@@ -1,0 +1,1 @@
+The executing test stays in test context but runs in a different thread. Test data isolation is not enforced. If the Visualforce request performs a callback, such as a Javascript remoting call, any data inserted by the callback isn´t visible to test.

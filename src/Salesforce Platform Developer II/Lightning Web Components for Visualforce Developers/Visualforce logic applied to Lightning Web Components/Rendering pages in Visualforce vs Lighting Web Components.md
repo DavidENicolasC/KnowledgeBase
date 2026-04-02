@@ -1,0 +1,3 @@
+Visualforce is a server-side templating language. The client requests for a Visualforce page, then the server renders it (HTML), and sends to the client. Any change requires request a newly rendered page from server.
+
+In Lightning Web Components, The client requests the component definition files from the server. Then, the server process and generate the Javascript compiled file, which render the component UI. On changes, the Javascript modifies the UI and this can be re-rendered without a full callback to the server, only when needed, such as the component needs new data.

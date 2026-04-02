@@ -1,0 +1,1 @@
+Stores data for an individual user and it´s tied to that user's session. Maximum life is 8 hours.

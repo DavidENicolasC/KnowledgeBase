@@ -1,0 +1,1 @@
+REST Callouts are based on HTTP. Each one is asocciated with one of the [[Common HTTP Methods]] and an endpoint. The HTTP method indicates the desired action. Each request set a URI (Uniform Resource Identifier), the endpoint address at which the service is located.

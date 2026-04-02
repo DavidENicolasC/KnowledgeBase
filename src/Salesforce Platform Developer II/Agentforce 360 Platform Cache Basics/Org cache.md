@@ -1,0 +1,1 @@
+Stores org-wide data that anyone in the org can use. Is accesible across sessions, request and org users and profiles.

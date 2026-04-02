@@ -1,0 +1,1 @@
+Big Object are stored for 15 days after being deleted.

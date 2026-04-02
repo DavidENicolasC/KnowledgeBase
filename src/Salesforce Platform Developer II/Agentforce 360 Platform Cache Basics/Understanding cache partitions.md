@@ -1,0 +1,3 @@
+Let you allocate space to balance usage and performance across apps. Caching data to designated partitions by [[Creating cache partitions]] ensures that the cache isn´t overwritten. Minimum size is 5 MB (You can assign 0 MB too). Partition capacity can be broken down between [[Org cache]] and [[Session cache]].
+
+When no space is allocated for a partition, get() method returns null. Your code should always anticipate and assume that a cache miss can happen.

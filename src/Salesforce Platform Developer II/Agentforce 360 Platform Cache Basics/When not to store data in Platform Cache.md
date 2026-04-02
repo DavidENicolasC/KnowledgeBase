@@ -1,0 +1,1 @@
+Data accessed by asynchronous Apex can´t be stored in a Session cache.

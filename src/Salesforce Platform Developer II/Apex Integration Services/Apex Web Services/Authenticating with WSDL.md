@@ -1,0 +1,1 @@
+When [[Exposing a class as a SOAP web service]], the web service requires authentication. External applications must use either the Enterprise WSDL or Partner WSDL for login functionality.

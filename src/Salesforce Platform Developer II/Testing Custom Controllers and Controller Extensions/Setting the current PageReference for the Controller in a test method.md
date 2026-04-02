@@ -1,0 +1,1 @@
+Use Test.setCurrentPage(PageReference pageToSet)

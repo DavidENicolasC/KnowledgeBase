@@ -1,0 +1,1 @@
+Some Salesforce objects, like accounts and opportunities,have special data relationships maintaining parent and child record accesses under private sharing models. This can create issues with record locking (because a failed operation in a record) and sharing performance.

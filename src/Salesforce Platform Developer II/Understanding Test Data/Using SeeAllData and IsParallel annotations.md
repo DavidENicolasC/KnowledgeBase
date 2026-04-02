@@ -1,0 +1,1 @@
+When [[Using the IsTest(SeeAllData=True) annotation]], you can use the @IsTest(SeeAllData=true) too in the same Apex method.

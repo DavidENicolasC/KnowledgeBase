@@ -1,0 +1,1 @@
+You can open logs from the Tests tab only for asychronous test runs. If you unmark "Always Run Asynchronously", Tests and [[Test Callouts]] that include only one class run synchronously.

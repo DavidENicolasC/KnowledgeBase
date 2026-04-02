@@ -1,0 +1,1 @@
+Cross-object field references aren´t supported. SELECT Owner.IsActive FROM Account returns null.

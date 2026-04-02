@@ -1,0 +1,3 @@
+Talks about creating modules or libraries to share common calculations and processes among different parts of your application to reuse code. Includes thinking about class naming conventions and coding guidelines. Good code should tell a story. As soon as two or more areas needs a code, this code is placed in a generic dumping area, like MyUtilClass.
+
+The declarative approach from the [[Approaches for development in Salesforce Platform]] already implements a degree of SOC.

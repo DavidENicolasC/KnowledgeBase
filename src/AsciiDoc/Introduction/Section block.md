@@ -1,0 +1,1 @@
+Section title prefixed by one or more equal signs.
