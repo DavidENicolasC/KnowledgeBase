@@ -5,6 +5,8 @@ Represented by the following syntax:
 :name
 ```
 
+Additional contexts may be introduced through use of the [[Block]], [[Block macro]] or [[inline macro]] extension points.
+
 There are some built-in contexts:
 
 | Name               | Purpose                                                                                                                                                                                             |
