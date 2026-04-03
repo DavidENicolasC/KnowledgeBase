@@ -1,0 +1,1 @@
+Layer of code that encapsulates logic responsible for querying information from Standard object and custom objects. Feeds data into [[About Domain Layer]] and [[Service Layer]]. Can also reuse selector classes from other areas requiring querying, like Batch Apex and controllers. Contains code responsible for querying records from the database.

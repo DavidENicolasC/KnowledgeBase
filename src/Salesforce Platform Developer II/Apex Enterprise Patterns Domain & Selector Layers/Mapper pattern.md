@@ -1,0 +1,1 @@
+A layer of mappers that moves data between objects and a database while keeping them independent of each other and the mapper itself. For Salesforce, its called [[About Selector Pattern]] cause its primary role is to provide SObject records.

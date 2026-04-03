@@ -1,0 +1,1 @@
+- Visibility, reusability and maintainability - Selector makes it easy to find and maintain database query logic 

@@ -2,6 +2,8 @@ Design pattern that reduces repetitive code when implementing transaction manage
 
 >Maintains a list of objects affected by a business transaction and coordinates the writing out of changes and the resolution of concurrency problems.
 
+It´s good practice to have a single place to initialize the Unit of Work.
+
 Handles the following use cases:
 * Recording record updates, insert and deletes to implement specific business requeriment.
 * Recording record relationships to make inserting child or related records easier with less coding

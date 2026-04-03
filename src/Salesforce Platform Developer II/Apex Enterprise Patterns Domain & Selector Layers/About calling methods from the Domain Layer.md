@@ -1,0 +1,1 @@
+Best practice it´s only override trigger methods to implement validation logic in the after phase of the Apex trigger invocation. This is most important to [[AppExchange]] package developers.

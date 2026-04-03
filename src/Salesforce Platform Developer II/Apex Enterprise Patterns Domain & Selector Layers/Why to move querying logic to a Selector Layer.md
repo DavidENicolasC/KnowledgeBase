@@ -1,0 +1,3 @@
+- Query inconsistencies - Same queries being made from different places for same information or criteria can lead to inconsistencies in the application.
+- Query data inconsistencies - When querying records, calling methods receiving records can become fragile. You can obtain error [[SObject row was retrieved via SOQL without querying the requested field:]].
+- Security inconsistencies - Salesforce requires all Apex code adheres to object security of the running user. Apex can run at the system level also, making developer's responsibility for security ahead of making the query.
