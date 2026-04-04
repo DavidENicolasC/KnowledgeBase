@@ -1,0 +1,6 @@
+- Zero or more block attribute lines ([[Block attribute list]])
+- Optional [[Block anchor]] line
+- Optional [[Block title]] line
+- Optional [[Block ID]]
+- Optional [[Set of roles]]
+- Optional [[Set of options]].
