@@ -4,6 +4,13 @@ Are defined using some form of [[Line]]-oriented syntax. [[Section block]]s begi
 
 All acommodate zero or more lines of metadata stacked linewise directly on top of the block. These populates [[Block properties]].
 
+Its identity is defined by the [[Context]] and the [[Block style]].
+
 There are types:
 * [[Paragraph block]]
 * [[Section block]]
+* [[Verbatim block]]
+* [[Compound block]]
+* [[Delimited block]]
+
+Paragraph blocks and verbatim blocks have an implicit and modifiable set of [[Substitution]]s. This do not apply to Compound blocks.

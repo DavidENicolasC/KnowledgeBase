@@ -1,0 +1,1 @@
+- Opening and closing delimiters for [[Structural containers]] must be the same length.

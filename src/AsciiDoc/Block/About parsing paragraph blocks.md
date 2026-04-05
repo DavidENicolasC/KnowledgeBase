@@ -1,0 +1,1 @@
+Are first parsed as a paragraph, then promoted to the specified block type, dropping line comments, which can impact [[Verbatim block]]s such as listing block.

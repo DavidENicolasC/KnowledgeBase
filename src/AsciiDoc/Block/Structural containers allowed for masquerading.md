@@ -1,0 +1,12 @@
+The following [[Structural containers]] can be used for [[Block masquerading]]
+
+| Type    | Default context | Masquerading contexts                                                                                                                                                                     |
+| ------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| example | :example        | admonition (designated by NOTE, TIP, WARNING, CAUTION, or IMPORTANT)                                                                                                                      |
+| listing | :listing        | literal                                                                                                                                                                                   |
+| literal | :literal        | listing (can be designated using source style)                                                                                                                                            |
+| open    | :open           | abstract, admonition (designated by NOTE, TIP, WARNING, CAUTION or IMPORTANT), comment, example, literal, listing (designated using source style), partintro, pass, quote, sidebar, verse |
+| pass    | :pass           | stem, latexmath, asciimath                                                                                                                                                                |
+| sidebar | :sidebar        | `n/a`                                                                                                                                                                                     |
+| quote   | :quote          | verse                                                                                                                                                                                     |
+Contexts applied to an open block can be applied to a [[Paragraph block]]. Paragraph also access the normal [[Block style]], which can be applied to revert a literal paragraph to a normal paragraph.

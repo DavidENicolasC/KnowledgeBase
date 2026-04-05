@@ -1,3 +1,4 @@
+Are contained under the [[Block attribute list]]
 - Zero or more block attribute lines ([[Block attribute list]])
 - Optional [[Block anchor]] line
 - Optional [[Block title]] line

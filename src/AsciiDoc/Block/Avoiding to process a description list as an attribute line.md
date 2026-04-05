@@ -1,0 +1,1 @@
+If first line of a [[Block]] begins with `[` and ends with `]`, will be interpreted as a block attribute line. It doesn´t matter the text contained between those brackets.

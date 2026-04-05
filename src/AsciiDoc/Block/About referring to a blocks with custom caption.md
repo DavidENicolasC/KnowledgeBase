@@ -1,0 +1,1 @@
+When using a [[xref]], you may not get the result that you except. It's always best to define custom [[xreftext]] when you define a custom caption.

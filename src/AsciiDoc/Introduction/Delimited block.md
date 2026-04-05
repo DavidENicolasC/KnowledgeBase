@@ -1,1 +1,0 @@
-Bounded by delimiter lines.

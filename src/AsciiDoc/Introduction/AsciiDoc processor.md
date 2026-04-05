@@ -3,4 +3,6 @@
 		1. Force the encoding to UTF-8
 		2. Strip trailing spaces from each line, including end of line character
 2. Based on the backend keyword, passes the structured document from the previous step to a converter. Can be HTML and DocBook (Default: HTML).
-3. Brings the lines back together, joins the lines on the line feed character
+3. Brings the lines back together, joins the lines on the line feed character.
+
+Use the [[Structural containers]] and [[Block metadata lines]] to determine which kind of block to make.

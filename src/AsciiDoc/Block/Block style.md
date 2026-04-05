@@ -8,4 +8,7 @@ Can be used to change [[Context]] of a [[Block]]. This is referred to as [[Block
 puts "Hello, World!"
 ----
 ```
+
 Above, context of a source block is [[listing]] and style is [[source]]. The [[Style]] specializes the block as a source block.
+
+The resolved block style specializes the [[Context]] to give it special behavior or semantics, or can also be used to change the context itself.

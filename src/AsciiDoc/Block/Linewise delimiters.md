@@ -1,0 +1,3 @@
+Has an opening delimiter and a closing delimiter, known as fences. Opening delimiter follows the block metadata, if present. Both must match exactly, both in length and in sequence of characters. [[Block metadata lines]] goes above this delimiters.
+
+Typically, this delimiters are written using the minimum allowable length (4 characters, excepting open block, currently having a fixed length of 2 characters). Can be varied to accommodate [[Nested block]]s.

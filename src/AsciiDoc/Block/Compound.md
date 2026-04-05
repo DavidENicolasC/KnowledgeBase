@@ -1,0 +1,1 @@
+Means that the block´s content is a sequence of zero or more blocks.
