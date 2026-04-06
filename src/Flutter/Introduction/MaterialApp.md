@@ -1,0 +1,1 @@
+Starts with the MaterialApp widget ([[About MaterialApp]]).

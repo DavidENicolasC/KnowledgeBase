@@ -1,0 +1,1 @@
+Lets you create a run of styled text within your application.

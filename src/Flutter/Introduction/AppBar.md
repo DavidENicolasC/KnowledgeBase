@@ -1,0 +1,1 @@
+Let´s you pass in [[Widget]]s for the [[Leading]] widget, and the [[Action]]s of the [[Title]] widget.

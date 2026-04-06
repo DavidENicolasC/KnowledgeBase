@@ -1,0 +1,1 @@
+Have a `uses-material-design: true` entry in the `flutter` ([[About Flutter]]) section of your `pubspec.yaml` file.

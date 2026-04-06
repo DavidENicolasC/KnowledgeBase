@@ -1,0 +1,1 @@
+Takes the given [[Widget]] and makes it the [[root widget]] of the widget tree.

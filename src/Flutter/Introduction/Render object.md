@@ -1,0 +1,1 @@
+Computes and describes the geometry of the [[Widget]].

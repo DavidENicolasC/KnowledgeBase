@@ -1,0 +1,1 @@
+Takes a number of different [[Widget]]s as [[Named argument]]s, each of which are placed in the `Scaffold` [[Layout]] in the appropriate place.

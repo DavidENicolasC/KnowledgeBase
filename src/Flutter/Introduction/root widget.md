@@ -1,0 +1,1 @@
+The framework ([[About Flutter]]) forces the root widget to cover the screen.

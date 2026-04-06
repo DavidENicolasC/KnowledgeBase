@@ -1,0 +1,1 @@
+Describes the [[Widget]] in terms of other, lower-level widgets.

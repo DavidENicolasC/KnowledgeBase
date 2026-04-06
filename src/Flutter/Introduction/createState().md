@@ -1,0 +1,1 @@
+Inserts the new state object into the tree and then calls [[initState()]] on the [[State]] object.
