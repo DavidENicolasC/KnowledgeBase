@@ -1,0 +1,1 @@
+Collects data by watching and listening to people or events. This can provide valuable data on customer behavior and product interactions.

@@ -1,0 +1,1 @@
+This data is **unstructured**, meaning that while we humans can usually derive meaning from it, AI needs tools like [[Retrieval-Augmented Generation (RAG)]] to connect a business’ data or knowledge base to [[Large Language Model (LLM)]]s to make sense of and enhance the context and accuracy of text, speech, and generated outcomes.

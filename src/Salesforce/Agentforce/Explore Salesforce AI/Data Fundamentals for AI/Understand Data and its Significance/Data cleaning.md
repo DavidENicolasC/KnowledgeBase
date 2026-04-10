@@ -1,0 +1,1 @@
+Process of removing or correcting errors and inconsistencies in the data to improve its quality and accuracy. Data cleaning can include removing duplicate data, correcting spelling errors, and filling in missing data.

@@ -1,0 +1,1 @@
+The computer is not “thinking.” It doesn’t have an opinion about the topic you ask about, nor does it have intentions or desires of its own. If it ever sounds like it has an opinion, that’s because it’s making the best prediction of what you expect as a response.

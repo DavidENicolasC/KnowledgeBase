@@ -1,0 +1,1 @@
+AI-powered cars are already quite capable of keeping centered in a lane and following at a safe distance on the highway. They adapt to city traffic patterns, curves in the road, gusts of wind from semi trucks, and sudden stops.

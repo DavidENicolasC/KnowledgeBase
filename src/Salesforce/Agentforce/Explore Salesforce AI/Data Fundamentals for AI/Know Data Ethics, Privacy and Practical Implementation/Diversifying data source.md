@@ -1,0 +1,1 @@
+One of the key ways to address bias is to ensure that data is collected from a diverse range of sources. This can help to ensure that the data is representative of the target population and that any biases that may be present in one source are balanced out by other sources.

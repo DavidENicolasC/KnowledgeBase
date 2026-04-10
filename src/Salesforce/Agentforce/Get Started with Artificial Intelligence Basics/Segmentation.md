@@ -1,0 +1,1 @@
+Larger texts are divided into smaller, meaningful chunks. Segmentation usually occurs at the end of sentences at punctuation marks to help organize text for further analysis.

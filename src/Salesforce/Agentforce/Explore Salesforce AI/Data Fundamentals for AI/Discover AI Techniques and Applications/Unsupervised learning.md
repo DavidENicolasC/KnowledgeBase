@@ -1,0 +1,1 @@
+The model learns from unlabeled data, finding patterns and relationships without predefined outputs. The model learns to identify similarities, group similar data points, or find underlying hidden patterns in the dataset.

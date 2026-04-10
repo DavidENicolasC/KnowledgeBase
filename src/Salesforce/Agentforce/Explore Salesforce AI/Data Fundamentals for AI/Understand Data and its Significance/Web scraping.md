@@ -1,0 +1,1 @@
+Collects data from websites using software tools. It can be used to collect data on competitors, market trends, and customer reviews.

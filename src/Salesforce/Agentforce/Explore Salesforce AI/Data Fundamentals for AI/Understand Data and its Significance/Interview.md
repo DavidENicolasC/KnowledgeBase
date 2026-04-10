@@ -1,0 +1,1 @@
+Collect data from individuals through one-on-one conversations. They can provide more detailed data than surveys, but they can also be time-consuming.

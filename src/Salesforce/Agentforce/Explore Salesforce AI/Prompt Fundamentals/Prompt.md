@@ -1,0 +1,1 @@
+Detailed instructions that help [[Large Language Model (LLM)]]s generate great output.

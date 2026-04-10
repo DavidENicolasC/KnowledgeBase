@@ -1,0 +1,1 @@
+Regularly reviewing data and algorithms to identify and address any biases that may be present is also an important strategy for addressing bias. This may include analyzing the data to identify any patterns or trends that may be indicative of bias and taking corrective action to address them.

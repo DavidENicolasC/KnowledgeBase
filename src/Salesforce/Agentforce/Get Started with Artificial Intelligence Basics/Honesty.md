@@ -1,0 +1,1 @@
+Respect data provenance and ensure consent to use data (e.g., open-source, user-provided) when collecting data to train and evaluate models. Additionally, it is important to be transparent in design that an AI has created content.

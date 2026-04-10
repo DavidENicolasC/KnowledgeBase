@@ -1,0 +1,1 @@
+Promoting transparency is another key strategy for addressing bias and promoting fairness. This may include making data and algorithms available to the public and providing explanations for how decisions are made. It may also include soliciting feedback from stakeholders and incorporating their input into decision-making processes.

@@ -1,0 +1,1 @@
+Technology that enables machines to interpret visual information.

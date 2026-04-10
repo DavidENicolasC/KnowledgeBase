@@ -1,0 +1,1 @@
+Process of data from [[Structured data]] to [[Unstructured Data]].

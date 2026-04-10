@@ -1,0 +1,5 @@
+- [[Accuracy]]
+- [[Safety]]
+- [[Honesty]]
+- [[Empowerment]]
+- [[Sustainability]]

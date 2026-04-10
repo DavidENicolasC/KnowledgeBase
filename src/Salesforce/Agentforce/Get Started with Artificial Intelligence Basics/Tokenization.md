@@ -1,0 +1,1 @@
+Sentences are split into individual words, called tokens. In the English language, tokenization is a fairly straightforward task because words are usually broken up by spaces. In languages like Thai or Chinese, tokenization is much more complicated and relies heavily on an understanding of vocabulary and morphology to accurately tokenize language.

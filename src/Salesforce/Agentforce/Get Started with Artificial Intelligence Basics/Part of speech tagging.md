@@ -1,0 +1,1 @@
+Assigns grammatical labels or tags to each word based on its part of speech, such as a noun, adjective, verb, and so on. Part of speech tagging is an important function in [[Natural Language Processing (NLP)]] because it helps computers understand the syntax of a sentence.

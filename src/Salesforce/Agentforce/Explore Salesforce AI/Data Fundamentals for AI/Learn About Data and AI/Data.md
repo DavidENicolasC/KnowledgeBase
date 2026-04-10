@@ -1,0 +1,1 @@
+Collection of facts, figures, statistics, documents, images, videos, and anything else that provides insight into various aspects of the world.

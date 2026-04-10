@@ -1,0 +1,1 @@
+Has some defined structure, but it may also contain unstructured elements. Examples of semi-structured data include [[XML (Extensible Markup Language)]] or [[JSON (JavaScript Object Notation)]] files.

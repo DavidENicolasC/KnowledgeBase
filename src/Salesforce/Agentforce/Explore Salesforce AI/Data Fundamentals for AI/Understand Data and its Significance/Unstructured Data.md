@@ -1,0 +1,1 @@
+Is not formatted in a specific way and can include text, documents, images, audio recordings, and videos. Unstructured data is more difficult to analyze, but it can provide valuable insights into customer behavior and market trends. Examples of unstructured data include social media posts, customer reviews, and conversational data like email messages or Slack posts.

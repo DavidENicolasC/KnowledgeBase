@@ -1,0 +1,1 @@
+Collect data from a group of people using a set of questions. They can be conducted online or in-person, and are often used to collect data on customer preferences and opinions.

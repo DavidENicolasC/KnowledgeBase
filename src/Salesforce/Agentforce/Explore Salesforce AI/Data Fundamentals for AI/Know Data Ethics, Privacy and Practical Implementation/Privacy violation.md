@@ -1,0 +1,1 @@
+Collecting and analyzing personal information without consent, or using personal information for purposes other than those for which it was collected.

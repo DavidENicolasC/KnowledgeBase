@@ -1,0 +1,1 @@
+Data quality is vital in mitigating bias within AI systems. Biased or inaccurate data can lead to biased outcomes, reinforcing existing inequalities or perpetuating unfair practices. By ensuring data quality, organizations can strive for fairness and minimize discriminatory outcomes.

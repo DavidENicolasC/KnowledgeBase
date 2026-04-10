@@ -1,0 +1,1 @@
+Assigning tags or labels to data to make it more easily searchable and analyzable. This can include assigning categories to data, such as age groups or product categories.

@@ -1,0 +1,1 @@
+Occurs when the model is too simple and does not capture the underlying patterns in the data.

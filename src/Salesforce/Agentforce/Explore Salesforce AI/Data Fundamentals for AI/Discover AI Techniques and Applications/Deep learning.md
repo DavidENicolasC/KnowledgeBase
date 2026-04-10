@@ -1,0 +1,1 @@
+Uses a specific type of algorithm called a [[Neural Network]] to find associations between a set of inputs and outputs. Deep learning becomes more effective and efficient as the amount of data increases.

@@ -1,0 +1,1 @@
+Involves understanding of a statement that might change based on the situation, the details provided, and any shared understanding that exists between the people communicating, to make sense of a piece of text.

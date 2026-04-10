@@ -1,0 +1,1 @@
+Occurs when the model is too complex and fits the training data too closely, resulting in poor generalization.

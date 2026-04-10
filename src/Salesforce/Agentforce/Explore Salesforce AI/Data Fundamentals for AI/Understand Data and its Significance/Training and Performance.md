@@ -1,0 +1,1 @@
+The quality of the data used for training AI models directly impacts their performance. High-quality data ensures that the model learns accurate and representative patterns, leading to more reliable predictions and better decision-making.

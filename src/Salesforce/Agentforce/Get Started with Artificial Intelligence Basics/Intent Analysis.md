@@ -1,0 +1,1 @@
+Helps us understand what someone wants or means based on what they say or write. It’s like deciphering the purpose or intention behind their words.

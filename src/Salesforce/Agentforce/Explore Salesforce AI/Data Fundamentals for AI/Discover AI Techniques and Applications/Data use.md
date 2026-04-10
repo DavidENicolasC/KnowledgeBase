@@ -1,0 +1,1 @@
+Once the data has been processed, it can be used for its intended purpose, such as making decisions or informing policy.

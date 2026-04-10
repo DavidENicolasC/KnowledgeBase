@@ -1,0 +1,1 @@
+Technology that keeps customer records in one place to serve as the single source of truth for every department - which helps your company manage current and potential customer relationships.

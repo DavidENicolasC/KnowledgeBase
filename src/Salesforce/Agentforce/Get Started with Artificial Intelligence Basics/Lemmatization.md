@@ -1,0 +1,1 @@
+Similar to [[Stemming]], lemmatization reduces words to their root, but takes the part of speech into account to arrive at a much more valid root word, or _lemma_.

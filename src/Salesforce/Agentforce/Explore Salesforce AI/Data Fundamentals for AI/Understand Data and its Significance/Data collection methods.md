@@ -1,0 +1,4 @@
+- [[Survey]]
+- [[Interview]]
+- [[Observation]]
+- [[Web scraping]]

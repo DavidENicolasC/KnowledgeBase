@@ -1,0 +1,1 @@
+AI models should be able to handle new and unfamiliar data effectively, and consistently perform well in different situations. High-quality data ensures that the model learns relevant and diverse patterns, enabling it to make accurate predictions and handle new situations effectively.

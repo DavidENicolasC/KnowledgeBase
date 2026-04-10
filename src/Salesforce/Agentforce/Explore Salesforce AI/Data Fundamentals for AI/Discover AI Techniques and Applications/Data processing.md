@@ -1,0 +1,1 @@
+Data is processed to extract insights and patterns. This may include using [[Machine Learning]] algorithms or other data analysis techniques.

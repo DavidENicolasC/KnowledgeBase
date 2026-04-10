@@ -1,0 +1,1 @@
+Words are reduced to their root form, or _stem_. For example _breaking_, _breaks_, or _unbreakable_ are all reduced to _break_. Stemming helps to reduce the variations of word forms, but, depending on context, it may not lead to the most accurate stem.

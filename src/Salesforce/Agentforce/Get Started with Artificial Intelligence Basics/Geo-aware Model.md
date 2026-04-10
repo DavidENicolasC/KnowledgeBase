@@ -1,0 +1,1 @@
+Automatically route [[Large Language Model (LLM)]] requests to a nearby data center based on where Data 360 is provisioned for your org.

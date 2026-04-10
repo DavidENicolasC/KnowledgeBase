@@ -1,0 +1,1 @@
+Data quality is closely tied to the trustworthiness and transparency of AI systems. Stakeholders must have confidence in the data used and the processes involved. Transparent data practices, along with data quality assurance, help build trust and foster accountability.

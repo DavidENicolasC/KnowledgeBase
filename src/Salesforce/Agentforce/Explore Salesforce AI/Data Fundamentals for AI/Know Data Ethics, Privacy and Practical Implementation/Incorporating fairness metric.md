@@ -1,0 +1,1 @@
+Another important strategy for promoting fairness is to incorporate fairness metrics into the design of algorithms and decision-making processes. This may include measuring the impact of certain decisions on different groups of people and taking steps to ensure that the decisions are fair and unbiased.

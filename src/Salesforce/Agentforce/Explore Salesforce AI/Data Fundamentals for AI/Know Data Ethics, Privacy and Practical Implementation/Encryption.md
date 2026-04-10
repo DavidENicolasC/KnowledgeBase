@@ -1,0 +1,1 @@
+Protecting sensitive data by encrypting it so that it can only be accessed by authorized users.

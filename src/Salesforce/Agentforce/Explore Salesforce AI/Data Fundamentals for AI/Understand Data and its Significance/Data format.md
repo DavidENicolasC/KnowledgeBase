@@ -1,0 +1,5 @@
+- **Tabular data** - [[Structured data]] that is organized in rows and columns, such as in a spreadsheet.
+- **Text data** - Includes [[Unstructured Data]] in the form of text documents, such as emails or reports.
+- **Image data** - Can include [[Visual Information]] in the form of a brand logo, charts, and infographics.    
+- **Geospatial data** - Refers to geographic coordinates and the shape of country maps, representing essential information about the Earth’s surface.
+- **Time-series data** - Refers to data that can contain information over a period of time, for example, daily stock prices over the past year.

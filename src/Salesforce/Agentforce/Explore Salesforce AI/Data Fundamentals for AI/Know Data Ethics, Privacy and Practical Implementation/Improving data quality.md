@@ -1,0 +1,1 @@
+Another key strategy for addressing bias is to improve data quality. This includes ensuring that the data is accurate, complete, and representative of the target population. It may also include identifying and correcting any errors or biases that may be present in the data.

@@ -1,0 +1,7 @@
+- Implementing data governance policies and procedures to ensure that data is collected and used in a responsible and ethical manner
+- Conducting regular audits and assessments to identify any weaknesses or vulnerabilities in the data lifecycle 
+- Ensuring that the data is accurate, complete, and representative of the target population
+- Ensuring that data is stored securely, and that access is granted only to authorized users
+- Ensuring that data is used only for its intended purpose and is shared only in a responsible and ethical manner
+- Placing appropriate safeguards to protect the data
+- Ensuring that data retention policies are in place and that data is securely deleted once it’s no longer needed

@@ -1,0 +1,1 @@
+Process of gathering data from various sources, such as sensors, surveys, and online sources.

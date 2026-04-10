@@ -1,0 +1,1 @@
+Unauthorized access to or release of sensitive data, which can result in financial or reputational harm to individuals or organizations.

@@ -1,0 +1,4 @@
+- People
+- Dates
+- Places
+- Organizations

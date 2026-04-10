@@ -1,0 +1,1 @@
+A model learns from labeled data, making predictions based on patterns it finds. The model can then make predictions or classify new, unseen data based on the patterns it has learned during training.

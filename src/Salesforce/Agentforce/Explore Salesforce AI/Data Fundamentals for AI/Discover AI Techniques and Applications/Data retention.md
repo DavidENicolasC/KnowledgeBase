@@ -1,0 +1,1 @@
+Refers to the length of time that data is kept.

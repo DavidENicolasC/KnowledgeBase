@@ -1,0 +1,1 @@
+Removing personally identifiable information from data so that it can’t be linked back to specific individuals.

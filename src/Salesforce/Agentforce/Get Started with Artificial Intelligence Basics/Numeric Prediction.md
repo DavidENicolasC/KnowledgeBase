@@ -1,0 +1,1 @@
+Often AI predictions take the form of a value between 0 (not going to happen) to 1 (definitely going to happen). Numeric predictions include more than just percent values, they can predict any numeric value, such as dollars.

@@ -1,0 +1,1 @@
+Uses algorithms to identify and classify [[Named Entities]], and so on–in text to help with tasks like answering questions and information extraction.

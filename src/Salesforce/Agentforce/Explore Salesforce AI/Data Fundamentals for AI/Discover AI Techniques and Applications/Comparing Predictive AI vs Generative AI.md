@@ -1,0 +1,7 @@
+| Predictive AI                                                                                                              | Generative AI                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Can make accurate predictions based on labeled data                                                                        | Can generate new and creative content                                                       |
+| Can be used to solve a wide range of problems, including fraud detection, medical diagnosis, and customer churn prediction | Can be used in a wide range of creative applications, such as art, music, and writing       |
+| Limited by the quality and quantity of labeled data available                                                              | Can generate biased or inappropriate content based on the input data                        |
+| May struggle with making predictions outside of the labeled data it was trained on                                         | May struggle with understanding context or generating coherent content                      |
+| May require significant computational resources to train and deploy                                                        | May not be suitable for all applications, such as those that require accuracy and precision |

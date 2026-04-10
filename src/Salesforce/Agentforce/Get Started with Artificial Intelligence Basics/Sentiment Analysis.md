@@ -1,0 +1,1 @@
+Involves determining whether a piece of text (such as a sentence, a social media post, a review, or a tweet) expresses a positive, negative, or neutral [[Sentiment]].

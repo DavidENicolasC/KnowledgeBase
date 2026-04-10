@@ -1,0 +1,1 @@
+Once data is no longer needed, it needs to be disposed of securely. This may involve securely deleting digital data or destroying physical media.

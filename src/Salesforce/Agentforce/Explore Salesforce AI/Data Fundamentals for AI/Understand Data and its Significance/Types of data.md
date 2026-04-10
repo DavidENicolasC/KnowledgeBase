@@ -1,0 +1,3 @@
+- **Quantitative data** - is numerical and can be measured and analyzed statistically. Examples of quantitative data include sales figures, customer counts based on geographical location, and website traffic.  
+    
+- **Qualitative data** - On the other hand, is non-numerical and includes text, images, and videos. In many cases, qualitative data can be more difficult to analyze, but it can provide valuable insights into customer preferences and opinions. Examples of qualitative data include customer reviews, social media posts, and survey responses.

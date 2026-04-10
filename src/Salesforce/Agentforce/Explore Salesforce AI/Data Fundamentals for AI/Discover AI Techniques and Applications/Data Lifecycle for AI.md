@@ -1,0 +1,7 @@
+- [[Data collection]]
+- [[Data storage]]
+- [[Data processing]]
+- [[Data use]]
+- [[Data sharing]]
+- [[Data retention]]
+- [[Data disposal]]
