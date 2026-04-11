@@ -1,0 +1,1 @@
+An attribute entry should not be declared inside the boundaries of a delimited block. The behavior is undefined.

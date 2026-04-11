@@ -1,0 +1,8 @@
+- Can have default values in the case of built-in attributes
+- Can have no value in the case of boolean attributes and built-in attributes with default values
+- Can have a single line value
+- Can have a value that spans multiple, contiguous lines
+- Can have a value that includes basic inline AsciiDoc syntax, such as:
+	- attribute references
+	- text formatting (if wrapped in a pass [[Macro]])
+	- inline macros (if wrapped in a pass macro)
