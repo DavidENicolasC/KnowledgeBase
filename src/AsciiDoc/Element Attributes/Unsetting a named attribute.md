@@ -1,0 +1,1 @@
+To unset the [[Named Attribute]], set the value to `None` (Case sensitive).

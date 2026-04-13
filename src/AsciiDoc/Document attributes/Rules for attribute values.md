@@ -1,0 +1,4 @@
+- Its value may be an empty string, an integer such as 5 or 2, or a string of characters.
+- Attributes that accept string values may include references to other attributes and inline macros.
+- Values can’t contain complex, multi-line block elements such as [[Table]]s or [[Sidebar]]s.
+- Attribute’s value may be assigned by default when the value is left empty in an [[Attribute Entry]] or the value may be assigned explicitly by the user.

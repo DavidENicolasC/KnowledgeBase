@@ -1,0 +1,4 @@
+- Attribute references are expanded before the attrlist is parsed (i.e., the attributes substitution is applied).
+- Parsing an attribute proceeds from the beginning or after a previously identified delimiter (,).
+- The first character cannot be a tab or space. For subsequent attributes, any leading space or tab characters are skipped.
+- If a valid attribute name is found, and it is followed by an equals sign (=), then the parser recog­ nizes this as a named attribute. The text after the equals sign (=) and up to the next comma or end of list is taken as the attribute value. Space and tab characters around the equals sign (=) and at the end of the value are ignored.

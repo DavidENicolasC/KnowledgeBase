@@ -1,0 +1,5 @@
+- Declare the ID of an element
+- Turn on or turn off an individual element’s built-in features
+- Configure the built-in features of an individual element
+- Apply user-defined information, such as citation metadata, fallback text, link text, and target content, to an individual element
+- Apply user-defined roles and behaviors to an individual element.

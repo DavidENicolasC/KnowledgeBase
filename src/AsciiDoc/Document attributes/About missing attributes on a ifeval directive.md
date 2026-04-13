@@ -1,0 +1,1 @@
+A missing [[Attribute Reference]] can safely be used in the clause of the `ifeval` directive without any side effects (i.e., drop) since the purpose of that statement is to determine whether an attribute resolves to a value.

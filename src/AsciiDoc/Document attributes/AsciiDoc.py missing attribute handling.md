@@ -1,0 +1,1 @@
+always drops the line that contains a reference to a missing attribute (effectively [[attribute-missing]]=drop-line).

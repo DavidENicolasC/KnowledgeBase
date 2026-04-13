@@ -1,0 +1,1 @@
+You’re strongly discouraged from using [[In-line attribute entry]]s unless you under­ stand their limitations or they are a last resort for fulfilling a use case. It’s very likely that this functionality will be removed from the AsciiDoc language since its behavior is difficult to define.

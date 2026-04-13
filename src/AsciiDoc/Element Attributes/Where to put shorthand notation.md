@@ -1,0 +1,2 @@
+- The first positional attribute in [[Block Attribute Line]] (i.e., the location of the [[Block Style]])
+- The text inside the brackets of [[sFormatted Text]] (which is otherwise treated as the role)

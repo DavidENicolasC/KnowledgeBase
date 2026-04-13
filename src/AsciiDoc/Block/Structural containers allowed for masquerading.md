@@ -9,4 +9,4 @@ The following [[Structural containers]] can be used for [[Block masquerading]]
 | pass    | :pass           | stem, latexmath, asciimath                                                                                                                                                                |
 | sidebar | :sidebar        | `n/a`                                                                                                                                                                                     |
 | quote   | :quote          | verse                                                                                                                                                                                     |
-Contexts applied to an open block can be applied to a [[Paragraph block]]. Paragraph also access the normal [[Block style]], which can be applied to revert a literal paragraph to a normal paragraph.
+Contexts applied to an open block can be applied to a [[Paragraph block]]. Paragraph also access the normal [[Block Style]], which can be applied to revert a literal paragraph to a normal paragraph.

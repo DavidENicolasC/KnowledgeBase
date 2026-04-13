@@ -1,0 +1,3 @@
+```
+{counter2:pnum}This is paragraph {pnum}.
+```

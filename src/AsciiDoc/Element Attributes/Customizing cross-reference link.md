@@ -1,0 +1,7 @@
+This is called `xreflabel`.
+
+```
+[[tiger-image,Image of a tiger]]
+.This image represents a Bengal tiger also called the Indian tiger
+image::tiger.png[]
+```

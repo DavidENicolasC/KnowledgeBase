@@ -1,0 +1,1 @@
+You cannot use inline anchors in a section title to make internal references to that section. The processor will flag these as possible invalid references.

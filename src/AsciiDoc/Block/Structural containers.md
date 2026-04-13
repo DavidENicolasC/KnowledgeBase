@@ -1,6 +1,6 @@
 Fixed set of recognized block enclosures in the [[AsciiDoc]] syntax, known as [[Linewise delimiters]].
 
-Has an expected [[Content model]]. [[Context]] is default when an explicit [[Block style]] is not present.
+Has an expected [[Content model]]. [[Context]] is default when an explicit [[Block Style]] is not present.
 
 The types are the following:
 

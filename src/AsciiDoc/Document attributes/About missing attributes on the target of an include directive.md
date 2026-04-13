@@ -1,0 +1,1 @@
+The processor will issue a warning about the missing attribute and leave behind the same warning mes­sage in the converted document.

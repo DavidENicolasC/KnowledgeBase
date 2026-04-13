@@ -1,1 +1,1 @@
-[[Pre-processor directive]]s Cannot see [[Attribute entry]]s defined inside a [[delimited block]].
+[[Pre-processor directive]]s Cannot see [[Attribute Entry]]s defined inside a [[delimited block]].

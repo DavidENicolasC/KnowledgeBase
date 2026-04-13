@@ -1,0 +1,1 @@
+The opening line of a paragraph may inadvertently match the syntax of a block attribute line. If this happens, append `{empty}` to the end of the line to disrupt the syntax match.

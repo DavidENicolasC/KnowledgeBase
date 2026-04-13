@@ -1,4 +1,4 @@
-The primary mechanism for defining a [[document attribute]] in an AsciiDoc document.
+The primary mechanism for defining a [[Document attribute]] in an AsciiDoc document.
 
 You can think of it as a global variable assignment for AsciiDoc.
 

@@ -4,7 +4,7 @@ Title prefixed with a caption label and a number followed by a dot.
 Table 1. Properties
 ```
 
-Only displayed when the corresponding caption attribute is set in the [[Block style]].
+Only displayed when the corresponding caption attribute is set in the [[Block Style]].
 
 Blocks supporting captioned titles
 

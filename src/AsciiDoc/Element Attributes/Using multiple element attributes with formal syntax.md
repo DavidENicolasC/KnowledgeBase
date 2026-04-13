@@ -1,0 +1,1 @@
+Separate elements like [[Role Attribute]] and [[Options Attribute]] by commas `,`.

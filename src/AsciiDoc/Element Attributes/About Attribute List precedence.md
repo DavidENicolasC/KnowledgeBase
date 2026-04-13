@@ -1,0 +1,1 @@
+Take precedence over [[Document Attribute]]s if the element supports the override.
