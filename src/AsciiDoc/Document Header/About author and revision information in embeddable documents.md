@@ -1,0 +1,1 @@
+Is not shown below the [[Document Title]] in the [[Embeddable Document]] ver­sion of the document like it is in the [[Standalone Document]], even when `showtitle` is set.

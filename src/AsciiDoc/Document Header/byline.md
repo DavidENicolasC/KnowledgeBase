@@ -1,0 +1,1 @@
+Displays the [[author Attribute]] information and the [[Revision Information]] directly beneath the [[Document Title]].

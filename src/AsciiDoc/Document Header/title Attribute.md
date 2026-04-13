@@ -1,0 +1,1 @@
+Used for set a value for the HTML `<title>` element or the DocBook `<info>` element instead of the default [[Document Title]] value assigned to it.

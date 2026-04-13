@@ -1,0 +1,1 @@
+is not intended to support the arbitrary placement of [[Attribute Reference]]s. Can produce undesirable results. If you need it, use [[Attribute Entry]]s.

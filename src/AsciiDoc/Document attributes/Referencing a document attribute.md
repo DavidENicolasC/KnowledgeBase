@@ -1,4 +1,4 @@
-Means replacing an [[attribute]] name with that attribute’s value. A [[Document attribute]] can be referenced in the document using the syntax
+Means replacing an [[attribute]] name with that attribute’s value. A [[Document Attribute]] can be referenced in the document using the syntax
 
 ```
 {name}

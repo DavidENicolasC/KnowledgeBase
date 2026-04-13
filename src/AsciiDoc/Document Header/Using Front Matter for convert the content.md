@@ -1,0 +1,1 @@
+[[Asciidoctor]] has a number of attributes available to correctly handle front matter.

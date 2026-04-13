@@ -1,0 +1,1 @@
+Set `showtitle` in the document header or via the CLI or API.

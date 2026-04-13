@@ -1,0 +1,1 @@
+Use the [[Revision attribute entries]] for the [[revnumber Attribute]].
