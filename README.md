@@ -1,7 +1,7 @@
 # Description
 Here you will find my personal notes on concepts that I've been learning throughout my academics. Each of the notes is constantly evolving, so concepts written here may change.
 ## Use
-The notes are grouped under a vault built with [Obsidian](https://obsidian.md/)), a free [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) app. As Obsidian uses the `[...]` syntax to link notes, I recommend open this vault in the application rather than try start to learn simply by opening notes directly from the repository.
+The notes are grouped under a vault built with [Obsidian](https://obsidian.md/), a free [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) app. As Obsidian uses the `[[...]]` syntax to link notes, I recommend open this vault in the application rather than try start to learn simply by opening notes directly from the repository.
 ## About the files structure
 You can find an explanation about this in the repository [Wiki](https://github.com/DavidENicolasC/KnowledgeBase/wiki).
 ## Contact
