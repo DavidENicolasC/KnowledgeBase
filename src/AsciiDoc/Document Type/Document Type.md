@@ -1,4 +1,4 @@
-Declares the expected structure of an [[AsciiDoc Document]].
+Declares the expected structure of an [[AsciiDoc Document]]. Known as `doctype`.
 
 Default is [[article Document Type]].
 

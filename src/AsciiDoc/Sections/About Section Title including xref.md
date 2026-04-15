@@ -1,0 +1,1 @@
+You must either assign a custom ID to the block or by [[Disabling Section ID autogeneration]] around the [[Section Title]]. Otherwise, the AsciiDoc processor may warn that the reference is invalid.
