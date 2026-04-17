@@ -1,0 +1,1 @@
+wrap a [[quote Block]] inside an [[abstract Block]].
