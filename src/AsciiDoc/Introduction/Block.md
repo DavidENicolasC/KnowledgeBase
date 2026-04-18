@@ -13,6 +13,6 @@ There are types:
 * [[Compound block]]
 * [[Delimited block]]
 
-Paragraph blocks and verbatim blocks have an implicit and modifiable set of [[Substitution]]s. This do not apply to Compound blocks.
+[[Paragraph]] blocks and verbatim blocks have an implicit and modifiable set of [[Substitution]]s. This do not apply to Compound blocks.
 
 Can have multiple [[Role Attribute]]s and options.

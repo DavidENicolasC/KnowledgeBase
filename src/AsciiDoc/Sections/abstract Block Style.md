@@ -1,6 +1,6 @@
 Concise overview of a document.
 
-Can be placed on an open block or paragraph.
+Can be placed on an [[Open Block]] or [[Paragraph]].
 
 ```
 = Document Title
@@ -12,4 +12,4 @@ Documentation is a distillation of many long adventures.
 == First Section 
 ```
 
-does not require the open block or paragraph to have a [[Block Title]], and it does not depend on a subsequent section to terminate it.
+does not require the [[Open Block]] or [[Paragraph]] to have a [[Block Title]], and it does not depend on a subsequent section to terminate it.

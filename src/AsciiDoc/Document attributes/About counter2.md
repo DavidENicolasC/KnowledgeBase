@@ -1,1 +1,1 @@
-Reference on a line by itself will produce an empty paragraph. You’ll need to adjoin it to the nearest content to avoid this side effect.
+Reference on a line by itself will produce an empty [[Paragraph]]. You’ll need to adjoin it to the nearest content to avoid this side effect.

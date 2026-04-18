@@ -1,7 +1,7 @@
 For when you only want to apply inline [[AsciiDoc]] formatting to input text with­out wrapping it in a [[Block]] element.
 
 Rules:
-- Only a single paragraph is read from the AsciiDoc source
+- Only a single [[Paragraph]] is read from the AsciiDoc source
 - Inline formatting is applied
 - The output is not wrapped in the normal paragraph tags.
 
