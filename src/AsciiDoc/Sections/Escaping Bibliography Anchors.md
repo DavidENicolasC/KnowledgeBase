@@ -1,0 +1,1 @@
+ Use the syntax `[[[word]]]`. This prevents the anchor from being matched as a [[Bibliography Anchor]] or a [[Normal anchor]].

@@ -2,23 +2,25 @@
 
 The following section styles are permitted in the [[book Document Type]]:
 - abstract (becomes a [[Chapter]])
-- colophon
-- dedication
-- acknowledgments
-- preface
-- partintro (must be first child of part)
-- appendix
-- glossary
-- bibliography
-- index
+- [[Colophon]]
+- [[Dedication]]
+- [[Acknowledgments]]
+- [[Preface]]
+- [[Part Intro]] (must be first child of [[Book Part]])
+- [[Appendix]]
+- [[Glossary]]
+- [[Bibliography]]
+- [[Index]]
 
 The following styles are implied by the location of the section in the document and are thus not spe­cial sections:
-- part
-- chapter
+- [[Book Part]]
+- [[Chapter]]
 
 The following are permitted in the [[article Document Type]]:
-- abstract
-- appendix
-- glossary
-- bibliography
-- index
+- [[Abstract]]
+- [[Appendix]]
+- [[Glossary]]
+- [[Bibliography]]
+- [[Index]]
+
+Can also be correlated directly with the [[book Document Type]], as [[Special Section as Part Sibling]]s.

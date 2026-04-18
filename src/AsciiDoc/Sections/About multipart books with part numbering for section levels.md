@@ -1,1 +1,1 @@
-you’d have to set sectnumlevels to -1 to disable part numbering too (the equivalent of `partnums!`).
+you’d have to set sectnumlevels to -1 to disable part numbering too (the equivalent of `partnums!`) for [[Multi-part Book]].

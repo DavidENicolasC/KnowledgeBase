@@ -1,0 +1,1 @@
+ Entry with the label enclosed in a pair of triple square brackets (e.g., `[[[label]]]`).

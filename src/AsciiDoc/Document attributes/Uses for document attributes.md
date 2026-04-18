@@ -1,6 +1,6 @@
 - Provide access to document information
 - Define [[Document metadata]]
-- Turn on or turn off [[Buil-in feature]]s
+- Turn on or turn off [[Built-in feature]]s
 - Configure buil-in features
 - Declare location of assets, like images
 - Store content for reuse throughout a document
