@@ -1,0 +1,5 @@
+- - Ignorar las líneas en blanco y aquellas que comiencen con #. 
+- Emplear [[Patrón glob]] estándar que se apliquen recursivamente a todo el directorio del repositorio local. 
+- Los patrones pueden comenzar con (/) para evitar recursividad. 
+- Los patrones pueden terminar en barra para especificar un directorio. 
+- Los patrones pueden negarse si se añade al principio el signo de exclamación (!).

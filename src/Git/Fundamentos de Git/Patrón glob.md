@@ -1,0 +1,3 @@
+ Son una especie de expresión regular simplificada que los terminales utilizan.
+ 
+ Un asterisco `*` corresponde a cero o más caracteres; `[abc]` corresponde a cualquier carácter dentro de los corchetes ( uno cualquiera dentro de las posiciones); el signo de interrogación `?` corresponde a un carácter cualquiera; y los corchetes con caracteres separados por un guión `[0-9]` corresponden a cualquier carácter entre ellos. También puedes usar dos asteriscos para indicar directorios anidados; por ejemplo, `a/**/z` coincide con `a/z`, `a/b/z`, `a/b/c/z`, etc.

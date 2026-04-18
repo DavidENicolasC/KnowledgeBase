@@ -1,0 +1,1 @@
+Aquel que estaba en la última instantánea del proyecto; puede ser un archivo sin modificar, modificado o preparado.
