@@ -1,0 +1,1 @@
+La mejor forma de utilizar todas las herramientas que Git tiene disponible esta desde la línea de comandos. Existen herramientas, gráficas, cada una con un propósito más específico y que no utilizan todos los comandos de Git.

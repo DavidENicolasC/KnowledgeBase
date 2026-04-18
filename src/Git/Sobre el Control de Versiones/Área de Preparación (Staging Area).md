@@ -1,0 +1,1 @@
+Es un archivo, generalmente contenido en el directorio de Git local, que almacena información sobre lo que va a ir en tu próxima confirmación.

@@ -1,0 +1,1 @@
+Significa que has modificado el archivo pero todavía no lo has confirmado en tu base de datos.

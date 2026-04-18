@@ -1,0 +1,1 @@
+ Significa que has marcado un archivo modificado en su versión actual para que vaya en tu próxima confirmación ([[Confirmado (committed)]]).

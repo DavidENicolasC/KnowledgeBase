@@ -1,0 +1,1 @@
+Es `/etc/config`. Contiene valores para todos los usuarios del sistema y para todos los repositorios. Puedes leer y escribir en él pasando la opción `--system` a `git config`.

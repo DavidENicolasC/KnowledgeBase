@@ -1,0 +1,1 @@
+Significa que los datos están almacenados de forma segura en tu base de datos local.

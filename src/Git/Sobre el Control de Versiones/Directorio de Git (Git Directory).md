@@ -1,0 +1,1 @@
+Donde se almacenan los metadatos y la base de datos de objetos para tu proyecto. Es la parte más importante de Git, y es justo lo que se copia cuando clonas un repositorio.

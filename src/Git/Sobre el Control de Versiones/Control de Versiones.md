@@ -1,0 +1,1 @@
+Sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de manera que se puedan recuperar cualquier versión específica más adelante.

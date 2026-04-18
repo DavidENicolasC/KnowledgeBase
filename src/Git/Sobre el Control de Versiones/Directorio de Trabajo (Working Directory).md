@@ -1,0 +1,1 @@
+Una copia de una versión del proyecto. Éstos se extraen de la base de datos comprimida en el [[Directorio de Git (Git Directory)]] local, y se colocan en disco para que los puedas editar o utilizar.
