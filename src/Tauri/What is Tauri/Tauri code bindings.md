@@ -1,0 +1,1 @@
+Bindings between JavaScript and Rust are available to developers using the `invoke` function in JavaScript and Swift and Kotlin bindings are available for [[Tauri Plugin]]s.

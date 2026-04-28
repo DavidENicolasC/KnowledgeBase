@@ -1,0 +1,1 @@
+Same as [[Tauri dependencies for MacOS]]

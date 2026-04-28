@@ -1,0 +1,1 @@
+ [[Tauri]] recommends [[Configurate Vite for Tauri]] for [[Single-Page Application (SPA)]] frameworks such as [[React]], [[Vue]], [[Svelte]], and [[Solid]], but also for plain [[JavaScript]] or [[TypeScript]] projects.

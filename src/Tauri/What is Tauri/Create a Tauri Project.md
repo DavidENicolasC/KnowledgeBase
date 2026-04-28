@@ -1,0 +1,1 @@
+You can make this either by using [[create-tauri-app]] or a [[Manual Setup of a Tauri Project]].

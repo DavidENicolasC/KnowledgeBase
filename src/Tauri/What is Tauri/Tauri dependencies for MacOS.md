@@ -1,0 +1,1 @@
+[[Tauri]] uses [[Xcode]] and various macOS and iOS development dependencies.

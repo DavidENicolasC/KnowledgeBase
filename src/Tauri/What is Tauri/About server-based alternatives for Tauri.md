@@ -1,0 +1,1 @@
+[[Tauri]] does not natively support server based alternatives (such as [[SSR]]).

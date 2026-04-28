@@ -1,0 +1,1 @@
+[[Tauri]] is frontend agnostic and supports most [[Frontend Framework]]s out of the box.
