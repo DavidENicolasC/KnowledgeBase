@@ -1,0 +1,1 @@
+Embeds, hashes, and compresses assets, including icons for the app as well as the system tray. Parses [[tauri.conf.json file]] at compile time and generates the Config struct.

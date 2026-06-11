@@ -1,0 +1,1 @@
+Enhances the [[Visual Studio Code]] interface with several nice-to-have features.

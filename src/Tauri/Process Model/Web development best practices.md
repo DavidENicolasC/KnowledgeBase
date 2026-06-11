@@ -1,0 +1,3 @@
+- Always sanitize user input
+- Never handle secrets in the Frontend
+- Ideally defer as much business logic as possible to the [[Tauri core process]] to keep your attack surface small.

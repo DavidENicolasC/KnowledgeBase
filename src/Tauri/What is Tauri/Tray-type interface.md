@@ -1,0 +1,1 @@
+They can be updated and are managed by the user’s [[Operating System]] as expected. They are very small because they use the OS’s webview. They do not ship a runtime since the final binary is compiled from Rust.

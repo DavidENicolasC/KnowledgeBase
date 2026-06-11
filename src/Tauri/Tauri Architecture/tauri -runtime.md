@@ -1,0 +1,1 @@
+The glue layer between Tauri itself and lower-level webview libraries.

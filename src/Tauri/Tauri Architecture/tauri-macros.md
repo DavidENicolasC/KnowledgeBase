@@ -1,0 +1,1 @@
+Creates macros for the context, handler, and commands by leveraging the [[tauri-codegen]] crate.

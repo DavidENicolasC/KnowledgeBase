@@ -1,0 +1,1 @@
+ Developers can extend the default [[API]] with their own functionality and bridge the [[Webview]] and [[Rust-based backend]] easily.

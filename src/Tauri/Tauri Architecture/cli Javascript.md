@@ -1,0 +1,1 @@
+Wrapper around [[cli Rust]] using [[napi-rs]] to produce [[npm package]]s for each platform.

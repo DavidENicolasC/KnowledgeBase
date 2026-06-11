@@ -1,0 +1,1 @@
+Allows you to very quickly install Tauri in a vue-cli project.

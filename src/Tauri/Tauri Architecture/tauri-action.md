@@ -1,0 +1,1 @@
+[[GitHub workflow]] that builds Tauri binaries for all platforms. Even allows creating a (very basic) Tauri app even if Tauri is not set up.

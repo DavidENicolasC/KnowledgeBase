@@ -1,0 +1,1 @@
+Applies the macros at build-time to rig some special features needed by [[cargo]].

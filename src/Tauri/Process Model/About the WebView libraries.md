@@ -1,0 +1,1 @@
+Are **not** included in your final executable but dynamically linked at runtime. Means that you need to keep platform differences in mind.

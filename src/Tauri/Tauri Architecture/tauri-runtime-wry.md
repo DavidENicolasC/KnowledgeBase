@@ -1,0 +1,1 @@
+This crate opens up direct systems-level interactions specifically for [[WRY]], such as printing, monitor detection, and other windowing-related tasks.

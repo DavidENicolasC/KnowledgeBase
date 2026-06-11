@@ -1,0 +1,3 @@
+- Windows: [[Microsoft Edge WebView2]]
+- macOS: [[WKWebView]]
+- Linux: [[webkitgtk]]
