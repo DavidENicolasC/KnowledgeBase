@@ -1,0 +1,1 @@
+- Lock down your application whenever you use external [[Tauri]] APIs

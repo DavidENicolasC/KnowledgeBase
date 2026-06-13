@@ -1,4 +1,4 @@
-Dependent on whether you use the stable or nightly Rust toolchain the options available to you differ a bit. It’s recommended you stick to the stable toolchain unless you’re an advanced user.
+Dependent on whether you use the stable or nightly [[Rust toolchain]] the options available to you differ a bit. It’s recommended you stick to the stable toolchain unless you’re an advanced user.
 
 ```
 [profile.dev]

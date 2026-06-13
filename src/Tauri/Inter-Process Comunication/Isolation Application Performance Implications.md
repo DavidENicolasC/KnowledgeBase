@@ -1,0 +1,3 @@
+Most applications should not notice the runtime costs of encrypting/decrypting the IPC messages, as they are relatively small and [[AES-GCM]] is relatively fast.
+
+A cryptographically secure key generated once each time the Tauri application is started. It is not generally noticeable if the system already has enough entropy to immediately return enough random numbers, which is extremely common for desktop environments.

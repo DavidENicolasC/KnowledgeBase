@@ -1,0 +1,1 @@
+it’s the only authenticated mode algorithm included in [[SubtleCrypto]] and that you probably already use it every day under the hood with [[TLS]].

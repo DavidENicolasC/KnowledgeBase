@@ -1,0 +1,1 @@
+Allows isolated processes to communicate securely and is key to building more complex applications.
