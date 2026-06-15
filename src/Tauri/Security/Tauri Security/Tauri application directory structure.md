@@ -2,8 +2,8 @@
 tauri-app
 ├── index.html
 ├── package.json
-├── src
-├── src-tauri
+├── src/
+├── src-tauri/
 │   ├── Cargo.toml
 │   ├── permissions
 │      └── <identifier>.toml

@@ -1,1 +1,2 @@
 - Lock down your application whenever you use external [[Tauri]] APIs
+- Expose of the window creation functionality to higher privileged windows by creating a [[Tauri Command Scope]].
