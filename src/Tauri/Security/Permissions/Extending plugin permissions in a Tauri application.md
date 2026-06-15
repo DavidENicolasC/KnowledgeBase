@@ -1,0 +1,13 @@
+The permissions are added as follows:
+```
+[[set]]
+identifier = "allow-home-read-extended"
+description = """ This allows non-recursive read access to files and to create directories
+in the `$HOME` folder.
+"""
+permissions = [
+    "fs:read-files",
+    "fs:scope-home",
+    "fs:allow-mkdir"
+]
+```

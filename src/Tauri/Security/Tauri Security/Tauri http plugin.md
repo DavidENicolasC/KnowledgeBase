@@ -1,0 +1,1 @@
+ Uses scopes to filter URLs that are allowed to be reached.

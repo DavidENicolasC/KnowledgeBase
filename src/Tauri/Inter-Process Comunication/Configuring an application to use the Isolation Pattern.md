@@ -1,0 +1,17 @@
+```
+{
+  "build": {
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "security": {
+      "pattern": {
+        "use": "isolation",
+        "options": {
+          "dir": "../dist-isolation"
+        }
+      }
+    }
+  }
+}
+```

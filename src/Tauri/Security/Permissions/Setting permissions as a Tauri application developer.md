@@ -1,0 +1,1 @@
+You can extend existing [[Plugin Permission]]s or define them for your own commands.

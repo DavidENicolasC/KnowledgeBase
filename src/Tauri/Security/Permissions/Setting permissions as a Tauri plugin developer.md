@@ -1,0 +1,1 @@
+You can ship multiple, pre-defined, well named [[Plugin Permission]]s for all of your exposed commands.

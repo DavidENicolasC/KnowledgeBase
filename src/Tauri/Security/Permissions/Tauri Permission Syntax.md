@@ -1,0 +1,2 @@
+-  `<name>:default` Indicates the permission is the default for a plugin or application
+- `<name>:<command-name>` Indicates the permission is for an individual command

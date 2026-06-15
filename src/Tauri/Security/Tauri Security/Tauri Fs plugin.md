@@ -1,0 +1,1 @@
+ Allows you to use scopes to allow or deny certain directories and files.

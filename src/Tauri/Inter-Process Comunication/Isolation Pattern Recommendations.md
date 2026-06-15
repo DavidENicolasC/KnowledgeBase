@@ -1,0 +1,3 @@
+- Keep your Isolation application as simple as possible.
+- Strive to keep dependencies of your isolation application minimal.
+- You should consider keeping its required build steps minimal.

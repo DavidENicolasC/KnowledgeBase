@@ -1,0 +1,3 @@
+Any code executed by the plugins or the application core has full access to all available system resources and is not constrained.
+
+Any code executed in the WebView has only access to exposed system resources via the well-defined IPC layer. Access to core application commands is configured and restricted by capabilities defined in the application configuration. The individual command implementations enforce the optional fine-grained access levels also defined in the capabilities configuration.

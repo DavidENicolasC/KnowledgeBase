@@ -1,0 +1,1 @@
+On [[Linux]] and [[Android]], [[Tauri]] is unable to distinguish between requests from an embedded `<iframe>` and the window itself.
