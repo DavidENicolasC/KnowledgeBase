@@ -1,0 +1,1 @@
+Our core repositores require signed commits to reduce risk of impersonation and to allow identification of attributed commits after detection of possible compromise.

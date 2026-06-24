@@ -1,0 +1,1 @@
+Live in Tauri’s [[`config.rs`]] (`AssetProtocolConfig`, `FsScope`). The generated [[Rust Configuration Reference]] may render nested `FsScope` fields in a compact or hard-to-read way; if something looks unclear there, cross-check this notes and the [[file system plugin]] `requireLiteralLeadingDot` section (plugin config uses the same option name for its own scopes).

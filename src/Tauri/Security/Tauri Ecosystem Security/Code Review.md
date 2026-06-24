@@ -1,0 +1,1 @@
+All Pull Requests (PRs) merged into our repositories need approval from at least one maintainer of the project, which in most cases is the working group. Code is generally reviewed in PRs and default security workflows and checks are run to ensure the code adheres to common standards.

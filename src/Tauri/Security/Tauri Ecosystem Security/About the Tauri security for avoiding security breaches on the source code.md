@@ -1,0 +1,4 @@
+- They use [[Build Pipeline]]s.
+- They require [[Signed Commits]].
+- They makes [[Code Review]]s.
+- They build the framework under a [[Release Process]].

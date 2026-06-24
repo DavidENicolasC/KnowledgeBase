@@ -1,0 +1,1 @@
+Avoid loading remote content such as scripts served over a [[CDN]] as they introduce an [[Attack Vector]]. In general any untrusted file can introduce new and subtle attack vectors.

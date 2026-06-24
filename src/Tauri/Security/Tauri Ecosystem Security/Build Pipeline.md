@@ -1,0 +1,1 @@
+The process of releasing our source-code artifacts is highly automated in GitHub build pipelines using GitHub actions, yet mandates kickoff and review from real humans.

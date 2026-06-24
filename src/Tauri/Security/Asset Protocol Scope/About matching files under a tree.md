@@ -1,0 +1,1 @@
+Prefer `**/*` (and variants like `$DIR/**/*`) rather than bare `**`, consistent with other Tauri path examples. Bare `**` is easy to misuse when you intend “everything under this directory recursively.”
