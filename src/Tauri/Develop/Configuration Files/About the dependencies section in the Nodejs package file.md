@@ -1,0 +1,1 @@
+Specifies which dependencies Node.js should download when you run either `yarn`, `pnpm install` or `npm install` (in this case the [[Tauri CLI]] and [[Tauri API]]).

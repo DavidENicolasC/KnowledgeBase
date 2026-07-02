@@ -1,0 +1,1 @@
+In addition to the [[Nodejs package file]] you may see either a `yarn.lock`, `pnpm-lock.yaml` or `package-lock.json` file. These files assist in ensuring that when you download the dependencies later you’ll get the exact same versions that you have used during development (similar to `Cargo.lock` in Rust).
