@@ -1,0 +1,1 @@
+Perform a right-click on the webview and click “Inspect” or use the `Ctrl + Shift + I` shortcut on Windows and Linux or `Cmd + Option + I` shortcut on macOS.

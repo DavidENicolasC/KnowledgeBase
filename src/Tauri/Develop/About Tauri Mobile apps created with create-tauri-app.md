@@ -1,0 +1,1 @@
+The [[create-tauri-app]] command configure your development server for mobile dev out of the box.

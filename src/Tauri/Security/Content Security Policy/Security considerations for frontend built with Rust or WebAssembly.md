@@ -1,3 +1,4 @@
-When using Rust to develop your frontend, or if your frontend otherwise uses WebAssembly, remember to include `'wasm-unsafe-eval'` as a `script-src`.
-
-See [[script-src]], [[style-src]] and [[CSP Sources]] for more information about this protection.
+- When using Rust to develop your frontend, or if your frontend otherwise uses WebAssembly, remember to include `'wasm-unsafe-eval'` as a `script-src`.
+- See [[script-src]], [[style-src]] and [[CSP Sources]] for more information about this protection.
+- Tauri application frontends can be developed using a number of web frameworks. Each of these frameworks usually ship their own development server, which is exposing the frontend assets via an open port to the local system or network. This allows the frontend to be hot-reloaded and debugged in the WebView or Browser.
+- The built-in Tauri development server does not support mutual authentication and transport encryption at the moment and should not be used on untrusted networks.

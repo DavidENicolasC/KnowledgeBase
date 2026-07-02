@@ -5,3 +5,5 @@
 - Ensuring that data is used only for its intended purpose and is shared only in a responsible and ethical manner
 - Placing appropriate safeguards to protect the data
 - Ensuring that data retention policies are in place and that data is securely deleted once it’s no longer needed
+- Use tooling like [`npm audit`](https://docs.npmjs.com/cli/v10/commands/npm-audit) and [`cargo audit`](https://crates.io/crates/cargo-audit) to automate this process, and lean on the security community’s important work.
+- Recent trends in the rust ecosystem like [`cargo-vet`](https://github.com/mozilla/cargo-vet) or [`cargo crev`](https://github.com/crev-dev/cargo-crev) can help to further reduce likelihood of supply chain attacks. To find out on whose shoulders you stand, you can use the [`cargo supply chain`](https://github.com/rust-secure-code/cargo-supply-chain) tool.

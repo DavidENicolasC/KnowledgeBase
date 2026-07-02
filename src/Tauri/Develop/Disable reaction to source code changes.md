@@ -1,0 +1,1 @@
+Use the `--no-watch` flag on the `tauri dev` command.

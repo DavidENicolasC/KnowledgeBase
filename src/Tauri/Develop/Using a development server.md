@@ -1,0 +1,2 @@
+- [[Configuring a development server when using framework or bundler]]
+- [[Configuring the Tauri development server when not using framework or bundler]]
